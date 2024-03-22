@@ -21,7 +21,12 @@ h2{
     max-width: 500px;
 }
 h1, h2{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    fonst-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
 }
 .established{
     font-style: italic;
